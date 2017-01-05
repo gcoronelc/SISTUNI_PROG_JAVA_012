@@ -1,0 +1,20 @@
+body{
+  font-family: Arial, Helvetica, Verdana;
+  font-size: 14px;
+  background-color: #0B173B;
+}
+
+h1{
+  font-size: 2em;
+}
+
+h2{
+  font-size: 1.5em;
+}
+
+#_PAGE{
+  width: 900px;
+  margin: 15px auto;
+  padding: 15px;
+  background-color: #F6E3CE;
+}
