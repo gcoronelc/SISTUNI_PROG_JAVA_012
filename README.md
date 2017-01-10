@@ -42,7 +42,8 @@
 - Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Código fuente: https://goo.gl/GRaOQg
-
+- Arquitectura de software 1: https://youtu.be/2Bcbls0bBzs
+- Arquitectura de software 2: https://youtu.be/97_3-D4NrI0
 
 # RECURSOS DEL CURSO
 
