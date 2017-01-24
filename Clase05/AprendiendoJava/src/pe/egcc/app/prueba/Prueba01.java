@@ -31,6 +31,7 @@ public class Prueba01 {
     mostrar(v2);
     mostrar(v3);
     
+    System.out.println("R = " + 10.0/4);
   }
 
   private static void mostrar(Venta o) {
